@@ -1,2 +1,1 @@
-Hello, World!
-Hello, Worldgit commit
+Новая строка 12
